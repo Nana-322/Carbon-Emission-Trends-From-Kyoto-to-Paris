@@ -11,35 +11,7 @@ The variables that will be looked at are country, year, co2, cumulative_co2 and 
 <iframe src="https://public.tableau.com/views/_Ansah1-GlobalClimateAgreements-CO2EmissionsThenandNow/Story1?:showVizHome=no&:embed=true" width="90%" height="500" frameborder="0" scrolling="no">
 </iframe>
 
-<iframe src="https://public.tableau.com/views/_Ansah2-GlobalClimateAgreements-CO2EmissionsThenandNow/Story2?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
 
-<iframe src="https://public.tableau.com/views/_Ansah3-GlobalClimateAgreements-CO2EmissionsThenandNow/Story3?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah4-GlobalClimateAgreements-CO2EmissionsThenandNow/Story4?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah4-GlobalClimateAgreements-CO2EmissionsThenandNow/Story4?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah5-GlobalClimateAgreements-CO2EmissionsThenandNow/Story5?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah6-GlobalClimateAgreements-CO2EmissionsThenandNow/Story6?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah7-GlobalClimateAgreements-CO2EmissionsThenandNow/Story7?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah8-GlobalClimateAgreements-CO2EmissionsThenandNow/Story8?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah9-GlobalClimateAgreements-CO2EmissionsThenandNow/Story9?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
-
-<iframe src="https://public.tableau.com/views/_Ansah10-GlobalClimateAgreements-CO2EmissionsThenandNow/Story10?:showVizHome=no&embed=true" width="90%" height="500" frameborder="0" scrolling="no">
-</iframe>
 
 ## Data Source
 * [Datasets for CDP competition] (https://www.kaggle.com/datasets/aslates/cdp-datasets?resource=download)
