@@ -8,53 +8,35 @@ Did countries that were excluded from mandatory compliance contribute towards em
 
 The variables that will be looked at are country, year, co2, cumulative_co2 and share_global_cumulative_co2 which is cumulative production-based emissions of carbon dioxide (co2) since 1750, measured as a percentage of global production-based emissions of CO2 since 1750. This is based on territorial emissions, which do not account for emissions embedded in traded goods. Each country's share of global CO2 emissions has been calculated by Our World in Data using global CO2 emissions provided in the Global Carbon Budget dataset. Global emissions include all country emissions as well as emissions from international aviation and shipping.
 
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >
-<iframe src="https://public.tableau.com/views/_Ansah1-GlobalClimateAgreements-CO2EmissionsThenandNow/Story1?:showVizHome=no&embed=true" scrolling="no">
+<iframe src="https://public.tableau.com/views/_Ansah1-GlobalClimateAgreements-CO2EmissionsThenandNow/Story1?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe> 
-</div>
 
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >
-<iframe src="https://public.tableau.com/views/_Ansah2-GlobalClimateAgreements-CO2EmissionsThenandNow/Story2?:showVizHome=no&embed=true" scrolling="no">
+<iframe src="https://public.tableau.com/views/_Ansah2-GlobalClimateAgreements-CO2EmissionsThenandNow/Story2?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-</div>
+   
+<iframe src="https://public.tableau.com/views/_Ansah3-GlobalClimateAgreements-CO2EmissionsThenandNow/Story3?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
+</iframe>
   
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >  
-<iframe src="https://public.tableau.com/views/_Ansah3-GlobalClimateAgreements-CO2EmissionsThenandNow/Story3?:showVizHome=no&embed=true" scrolling="no">
+<iframe src="https://public.tableau.com/views/_Ansah4-GlobalClimateAgreements-CO2EmissionsThenandNow/Story4?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-</div>
-  
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >  
-<iframe src="https://public.tableau.com/views/_Ansah4-GlobalClimateAgreements-CO2EmissionsThenandNow/Story4?:showVizHome=no&embed=true" scrolling="no">
-</iframe>
-</div>
 
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' > 
-<iframe src="https://public.tableau.com/views/_Ansah5-GlobalClimateAgreements-CO2EmissionsThenandNow/Story5?:showVizHome=no&embed=true" scrolling="no">
+<iframe src="https://public.tableau.com/views/_Ansah5-GlobalClimateAgreements-CO2EmissionsThenandNow/Story5?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-</div>
-  
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >   
-<iframe src="https://public.tableau.com/views/_Ansah6-GlobalClimateAgreements-CO2EmissionsThenandNow/Story6?:showVizHome=no&embed=true" scrolling="no">
+   
+<iframe src="https://public.tableau.com/views/_Ansah6-GlobalClimateAgreements-CO2EmissionsThenandNow/Story6?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-</div>
-  
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >   
-<iframe src="https://public.tableau.com/views/_Ansah7-GlobalClimateAgreements-CO2EmissionsThenandNow/Story7?:showVizHome=no&embed=true" scrolling="no">
+    
+<iframe src="https://public.tableau.com/views/_Ansah7-GlobalClimateAgreements-CO2EmissionsThenandNow/Story7?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-</div>
-  
-<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >   
-<iframe src="https://public.tableau.com/views/_Ansah8-GlobalClimateAgreements-CO2EmissionsThenandNow/Story8?:showVizHome=no&embed=true" scrolling="no">
+   
+<iframe src="https://public.tableau.com/views/_Ansah8-GlobalClimateAgreements-CO2EmissionsThenandNow/Story8?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-</div>
   
-<div class='tableauPlaceholder' id='viz1656310629066' style='position: relative'>
-<iframe src="https://public.tableau.com/views/_Ansah9-GlobalClimateAgreements-CO2EmissionsThenandNow/Story9?:showVizHome=no&embed=true" style="width:0; min-width:"100%"" height="600" scrolling="no">
-</iframe></div>
+<iframe src="https://public.tableau.com/views/_Ansah9-GlobalClimateAgreements-CO2EmissionsThenandNow/Story9?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
+</iframe>
 
-<div class='tableauPlaceholder' id='viz1656310678462' style='position: relative'>
-<iframe src="https://public.tableau.com/views/_Ansah10-GlobalClimateAgreements-CO2EmissionsThenandNow/Story10?:showVizHome=no&embed=true" style="width:0; min-width:"100%"" height="600" scrolling="no">
-</iframe></div>
+<iframe src="https://public.tableau.com/views/_Ansah10-GlobalClimateAgreements-CO2EmissionsThenandNow/Story10?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
+</iframe>
 
   
 ## Data Source
@@ -66,3 +48,7 @@ I also want to look into the continents that have the highest carbon emissions a
 
 ## Reference
 * [Kyoto Protocol Fast Facts](https://www.cnn.com/2013/07/26/world/kyoto-protocol-fast-facts/index.html)
+
+
+
+               <script type='text/javascript'>                    var divElement = document.getElementById('viz1656310678462');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
