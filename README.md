@@ -12,7 +12,7 @@ The variables that will be looked at are country, year, co2, cumulative_co2 and 
 The design choices of using colors and lines to show trends and also differentiate countries that are being successful in reaching the climate targets enable us to see how much the carbon emissions continue to increase even with the existence of these treaties, and how as people who care about the state of our home in the future need to step up and play our role in curbing this menace to sustain the earth.
 
 ## Github Pages
-[Visualizations](https://nana-322.github.io/Carbon-Emission-Trends-From-Kyoto-to-Paris/))
+[Visualizations](https://nana-322.github.io/Carbon-Emission-Trends-From-Kyoto-to-Paris/)
 
 <iframe src="https://public.tableau.com/views/_Ansah1-GlobalClimateAgreements-CO2EmissionsThenandNow/Story1?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe> 
