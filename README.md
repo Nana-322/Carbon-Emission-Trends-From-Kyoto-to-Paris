@@ -1,4 +1,4 @@
-#Global Climate Agreements: CO2 Emissions Then and Now
+# Global Climate Agreements: CO2 Emissions Then and Now
 ## Background
 In 1997, the Kyoto Protocol was signed by some 192 countries in the United Nations to reduce greenhouse gas emissions based on the scientific consensus that global warming was increasing due to human activities; with 36 developed countries having mandatory compliance. China, India and other developing countries were exempted because they were not main contributors to emissions. The financial crisis of 2007/2008 helped reduce emissions. Between 2008 and 2012, these countries agreed to cut their emissions to below 5%. During a conference in Doha, Qatar in 2012, this protocol was extended to 2020 with 37 countries having a binding target. Countries such as the US and Canada however did not sign up for the second commitment as their national emissions were slightly greater than their targets. 
 
