@@ -9,6 +9,8 @@ Did countries that were excluded from mandatory compliance contribute towards em
 
 The variables that will be looked at are country, year, co2, cumulative_co2 and share_global_cumulative_co2 which is cumulative production-based emissions of carbon dioxide (co2) since 1750, measured as a percentage of global production-based emissions of CO2 since 1750. This is based on territorial emissions, which do not account for emissions embedded in traded goods. Each country's share of global CO2 emissions has been calculated by Our World in Data using global CO2 emissions provided in the Global Carbon Budget dataset. Global emissions include all country emissions as well as emissions from international aviation and shipping.
 
+The design choices of using colors and lines to show trends and also differentiate countries that are being successful in reaching the climate targets enable us to see how much the carbon emissions continue to increase even with the existence of these treaties, and how as people who care about the state of our home in the future need to step up and play our role in curbing this menace to sustain the earth.
+
 <iframe src="https://public.tableau.com/views/_Ansah1-GlobalClimateAgreements-CO2EmissionsThenandNow/Story1?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe> 
 
@@ -38,8 +40,6 @@ The variables that will be looked at are country, year, co2, cumulative_co2 and 
 
 <iframe src="https://public.tableau.com/views/_Ansah10-GlobalClimateAgreements-CO2EmissionsThenandNow/Story10?:showVizHome=no&embed=true" width="1016" height="991" scrolling="no">
 </iframe>
-
-The design choices of using colors and lines to show trends and also differentiate countries that are being successful in reaching the climate targets enable us to see how much the carbon emissions continue to increase even with the existence of these treaties, and how as people who care about the state of our home in the future need to step up and play our role in curbing this menace to sustain the earth.
   
 ## Data Source
 * [Datasets for CDP competition](https://www.kaggle.com/datasets/aslates/cdp-datasets?resource=download)
