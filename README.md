@@ -8,42 +8,42 @@ Did countries that were excluded from mandatory compliance contribute towards em
 
 The variables that will be looked at are country, year, co2, cumulative_co2 and share_global_cumulative_co2 which is cumulative production-based emissions of carbon dioxide (co2) since 1750, measured as a percentage of global production-based emissions of CO2 since 1750. This is based on territorial emissions, which do not account for emissions embedded in traded goods. Each country's share of global CO2 emissions has been calculated by Our World in Data using global CO2 emissions provided in the Global Carbon Budget dataset. Global emissions include all country emissions as well as emissions from international aviation and shipping.
 
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >
 <iframe src="https://public.tableau.com/views/_Ansah1-GlobalClimateAgreements-CO2EmissionsThenandNow/Story1?:showVizHome=no&embed=true" scrolling="no">
 </iframe> 
 </div>
 
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >
 <iframe src="https://public.tableau.com/views/_Ansah2-GlobalClimateAgreements-CO2EmissionsThenandNow/Story2?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
   
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >  
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >  
 <iframe src="https://public.tableau.com/views/_Ansah3-GlobalClimateAgreements-CO2EmissionsThenandNow/Story3?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
   
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >  
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >  
 <iframe src="https://public.tableau.com/views/_Ansah4-GlobalClimateAgreements-CO2EmissionsThenandNow/Story4?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
 
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' > 
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' > 
 <iframe src="https://public.tableau.com/views/_Ansah5-GlobalClimateAgreements-CO2EmissionsThenandNow/Story5?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
   
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >   
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >   
 <iframe src="https://public.tableau.com/views/_Ansah6-GlobalClimateAgreements-CO2EmissionsThenandNow/Story6?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
   
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >   
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >   
 <iframe src="https://public.tableau.com/views/_Ansah7-GlobalClimateAgreements-CO2EmissionsThenandNow/Story7?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
   
-<div class='tableauPlaceholder' style='width: device-width; height: 600px;' >   
+<div class='tableauPlaceholder' style='width: device-width; height: 1200px;' >   
 <iframe src="https://public.tableau.com/views/_Ansah8-GlobalClimateAgreements-CO2EmissionsThenandNow/Story8?:showVizHome=no&embed=true" scrolling="no">
 </iframe>
 </div>
