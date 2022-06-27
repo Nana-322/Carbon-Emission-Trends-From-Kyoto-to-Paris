@@ -35,11 +35,12 @@ The variables that will be looked at are country, year, co2, cumulative_co2 and 
 <iframe src="https://public.tableau.com/views/_Ansah9-GlobalClimateAgreements-CO2EmissionsThenandNow/Story9?:showVizHome=no&embed=true" width="90%" height="1200" scrolling="no">
 </iframe>
 
+<div class='tableauPlaceholder' id='viz1656307964624' style='position: relative'>
 <iframe src="https://public.tableau.com/views/_Ansah10-GlobalClimateAgreements-CO2EmissionsThenandNow/Story10?:showVizHome=no&embed=true" width="90%" height="1200" scrolling="no">
-</iframe>
+</iframe></div>
 
 ## Data Source
-* [Datasets for CDP competition] (https://www.kaggle.com/datasets/aslates/cdp-datasets?resource=download)
+* [Datasets for CDP competition](https://www.kaggle.com/datasets/aslates/cdp-datasets?resource=download)
 
 ## Future Work
 I want to make a timeline comparing the carbon emissions of countries over the period where the Kyoto protocol was in effect and the current period in which the Paris Agreement is currently in effect.
