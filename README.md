@@ -47,8 +47,4 @@ I want to make a timeline comparing the carbon emissions of countries over the p
 I also want to look into the continents that have the highest carbon emissions and their carbon emissions value over the same period of time. My design choices of using colors and lines to show trends and also differentiate countries that have been successful in reaching the climate targets enable us to see how much the carbon emissions continue to increase even with the existence of these treaties and how we as individuals and people who care about the state of the earth in the future need to step up and play a more active role in curbing this menace to sustain the earth.
 
 ## Reference
-* [Kyoto Protocol Fast Facts](https://www.cnn.com/2013/07/26/world/kyoto-protocol-fast-facts/index.html)
-
-
-
-               <script type='text/javascript'>                    var divElement = document.getElementById('viz1656310678462');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+* [Kyoto Protocol Fast Facts](https://www.cnn.com/2013/07/26/world/kyoto-protocol-fast-facts/index.html 
