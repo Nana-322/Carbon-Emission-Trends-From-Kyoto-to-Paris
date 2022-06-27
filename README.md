@@ -5,7 +5,7 @@ In 1997, the Kyoto Protocol was signed by some 192 countries in the United Natio
 In 2015, another treaty called the Paris Agreement was signed by 195 countries in order to set a global framework that will limit global warming to below 2 degrees Celsius and is separate from the Kyoto protocol. How has the emission activity globally changed since the implementation of the Kyoto Protocol and the Paris Agreement changed, especially for developed countries. Can these countries contribute towards effectively reducing greenhouse emissions thus keeping the temperature of the earth to well below 1.5 degrees Celsius? 
 
 ## Problem Statement
-Did countries that were excluded from mandatory compliance contribute towards emissions? Did the Kyoto protocol fail?
+**Did countries that were excluded from mandatory compliance contribute towards emissions? Did the Kyoto protocol fail?**
 
 The variables that will be looked at are country, year, co2, cumulative_co2 and share_global_cumulative_co2 which is cumulative production-based emissions of carbon dioxide (co2) since 1750, measured as a percentage of global production-based emissions of CO2 since 1750. This is based on territorial emissions, which do not account for emissions embedded in traded goods. Each country's share of global CO2 emissions has been calculated by Our World in Data using global CO2 emissions provided in the Global Carbon Budget dataset. Global emissions include all country emissions as well as emissions from international aviation and shipping.
 
